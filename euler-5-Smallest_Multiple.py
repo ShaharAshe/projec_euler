@@ -1,6 +1,6 @@
 import numpy as np
 
-# === first idea ===
+
 def is_prime(num: int)->bool:
     if num == 0 or num == 1:
         return False
