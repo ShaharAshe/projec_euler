@@ -13,12 +13,12 @@ def nPrime(num:int)->int:
     primes = []
     i = 2
     while(True):
+        if len(primes) == num:
+            return i
         if i == 2:
             primes = [2]
         elif is_prime(primes, i):
              primes += [i]
-        if len(primes) == num:
-            return i
         i += 1
 
 

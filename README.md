@@ -10,5 +10,6 @@
     <a href="https://github.com/ShaharAshe/projec_euler/blob/main/euler-4-Largest_Palindrome_Product.py" alt="4 - Largest Palindrome Product"><li> 4 - Largest Palindrome Product </li></a>
     <a href="https://github.com/ShaharAshe/projec_euler/blob/main/euler-5-Smallest_Multiple.py" alt="5 - Smallest Multiple"><li> 5 - Smallest_Multiple </li></a>
     <a href="https://github.com/ShaharAshe/projec_euler/blob/main/euler-6-Sum_Square_Difference.py" alt="6 - Sum Square Difference"><li> 6 - Sum Square Difference </li></a>
+    <a href="https://github.com/ShaharAshe/projec_euler/blob/main/euler-7-10001st_Prime.py" alt="7 - 10001st Prime"><li> 7 - 10001st Prime </li></a>
   </ol>
 </section>
