@@ -1,7 +1,5 @@
 def find_greatest(series:str, adj_len:int)->int:
     series_nums:list = [int(s) for s in series if s.isdigit()]
-    print(series_nums)
-
     sum:int = -1
     save_nums:list = []
     # sliding window
@@ -10,10 +8,10 @@ def find_greatest(series:str, adj_len:int)->int:
         temp_sum:int = 1
         for j in range(adj_len):
             temp_sum *= series_nums[i+j]
-            temp_save_nums.append(series_nums[i])
+            temp_save_nums.append(series_nums[i+j])
         if sum < temp_sum:
             sum = temp_sum
-            save_nums = temp_save_nums
+            save_nums = temp_save_nums[:]
     
     print(save_nums)
     return(sum)
