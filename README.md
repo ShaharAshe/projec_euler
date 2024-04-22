@@ -11,5 +11,6 @@
     <a href="https://github.com/ShaharAshe/projec_euler/blob/main/euler-5-Smallest_Multiple.py" alt="5 - Smallest Multiple"><li> 5 - Smallest_Multiple </li></a>
     <a href="https://github.com/ShaharAshe/projec_euler/blob/main/euler-6-Sum_Square_Difference.py" alt="6 - Sum Square Difference"><li> 6 - Sum Square Difference </li></a>
     <a href="https://github.com/ShaharAshe/projec_euler/blob/main/euler-7-10001st_Prime.py" alt="7 - 10001st Prime"><li> 7 - 10001st Prime </li></a>
+    <a href="https://github.com/ShaharAshe/projec_euler/blob/main/euler-8-Largest_Product_in_a_Series.py" alt="8 - Largest Product in a Series"><li> 8 - Largest Product in a Series </li></a>
   </ol>
 </section>
